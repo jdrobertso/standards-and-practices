@@ -12,7 +12,7 @@ maintainer -- tend to reject excited new contributors out of hand because their
 code does not meet standards. It's not wrong that they do this, their intent is
 to maintain a good application (an effort which should be lauded), not to teach
 the new contributor how to write good code. To that effect, the LearnProgramming
-Mentoring Community hopes to, in effect, provide a service -- teaching it's
+Mentoring Community hopes to, in effect, provide a service -- teaching its
 members how to do things 'The Right Way'(tm) with everything from crafting a
 good Pull Request to ensuring code is properly tested, documented, and --
 crucially, well written.

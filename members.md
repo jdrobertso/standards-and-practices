@@ -86,6 +86,7 @@ Format:
 | Jared Trouth | [jaredtrouth](https://github.com/jaredtrouth) ||
 | Jason Papp | [jspapp](https://github.com/jspapp) ||
 | Jim Eiche | [Spawnbroker](https://github.com/Spawnbroker) | Senior computer science student, experience with Java, C#, C++ |
+| Jeremy Robertson| [jdrobertso](https://github.com/jdrobertso) |Attempting to learn Python, as well as any other language I can get my hands on.|
 | John Ryder | [tokens](https://github.com/tokens) ||
 | Johnicholas Hines | [Johnicholas](https://github.com/Johnicholas) ||
 | Jonas Raedle | [Jonas-R](https://github.com/Jonas-R) ||
